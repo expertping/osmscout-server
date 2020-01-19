@@ -34,7 +34,8 @@
     "libboost-chrono-dev",
     "liblz4-dev",
     "qttools5-dev",
-    "libsqlite3-dev"
+    "libsqlite3-dev",
+    "qml-module-qtquick-dialogs"
   ],
   "dependencies_build": [
     "gcc-opt",
